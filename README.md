@@ -18,7 +18,7 @@ Big thanks to the [Dog CEO API team](https://dog.ceo/) for making this API free 
 
 ## Try it here
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://ttvbetboster2.github.io/Simple-Dog-img-generator/" target="_blank">
      Click here to try the Random Dog Generator
   </a>
 </p>
