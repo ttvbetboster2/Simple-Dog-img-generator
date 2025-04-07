@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.3dae8914.css",
-    "main.js": "/static/js/main.7332a27c.js",
-    "index.html": "/index.html",
-    "main.3dae8914.css.map": "/static/css/main.3dae8914.css.map",
-    "main.7332a27c.js.map": "/static/js/main.7332a27c.js.map"
+    "main.css": "/Simple-Dog-img-generator/static/css/main.3dae8914.css",
+    "main.js": "/Simple-Dog-img-generator/static/js/main.7332a27c.js",
+    "index.html": "/Simple-Dog-img-generator/index.html",
+    "main.3dae8914.css.map": "/Simple-Dog-img-generator/static/css/main.3dae8914.css.map",
+    "main.7332a27c.js.map": "/Simple-Dog-img-generator/static/js/main.7332a27c.js.map"
   },
   "entrypoints": [
     "static/css/main.3dae8914.css",
